@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/pc/Documents/Study/2019-2020/ITP II/Assignment 1/Subtask 3/main.cpp
+iostream
+-
+cmath
+-
+iomanip
+-
+

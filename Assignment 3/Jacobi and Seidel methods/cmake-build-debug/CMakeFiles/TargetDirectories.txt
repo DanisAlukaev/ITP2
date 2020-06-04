@@ -1,0 +1,3 @@
+C:/Users/pc/Documents/Study/2019-2020/ITP II/Assignment 3/Jacobi and Seidel methods/cmake-build-debug/CMakeFiles/Jacobi_and_Seidel_methods.dir
+C:/Users/pc/Documents/Study/2019-2020/ITP II/Assignment 3/Jacobi and Seidel methods/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/Documents/Study/2019-2020/ITP II/Assignment 3/Jacobi and Seidel methods/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/pc/Documents/Study/2019-2020/ITP II/Final exam/Task 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/Documents/Study/2019-2020/ITP II/Final exam/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir
+C:/Users/pc/Documents/Study/2019-2020/ITP II/Final exam/Task 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
